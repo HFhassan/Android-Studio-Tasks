@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mylist</string>
+    <string name="textview_prompt">option muntakhib kren</string>
+    <string name="dog">Kutta</string>
+    <string name="cat">Billi</string>
+    <string name="horse">Ghora</string>
+    <string name="frog">Mendak</string>
+</resources>

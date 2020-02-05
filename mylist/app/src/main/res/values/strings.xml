@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mylist</string>
+    <string name="textview_prompt">Pick an option:</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="horse">Horse</string>
+    <string name="frog">Frog</string>
+    <string-array name="animalsarray">
+        <item>@string/horse</item>
+        <item>@string/cat</item>
+        <item>@string/dog</item>
+        <item>@string/frog</item>
+    </string-array>
+</resources>
